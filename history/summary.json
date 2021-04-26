@@ -1,20 +1,20 @@
 [
   {
-    "name": "[Registrat] omg.lol",
+    "name": "[Registrar] omg.lol",
     "url": "https://meta.omg.lol",
     "icon": "https://favicons.githubusercontent.com/meta.omg.lol",
-    "slug": "registrat-omg-lol",
+    "slug": "registrar-omg-lol",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 445,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "time": 337,
+    "timeDay": 337,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "time": 708,
+    "timeDay": 708,
+    "timeWeek": 708,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 790,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   }
 ]
