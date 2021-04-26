@@ -3,13 +3,13 @@ owner: HeartsDo-DEV # Your GitHub organization or username, where this repositor
 repo: YnH-Instance-Status # The name of this repository
 
 sites:
-  - name: [Registrat] omg.lol
+  - name: "[Registrat] omg.lol"
     url: https://meta.omg.lol
-  - name: [Server] Yunohost Instance
+  - name: "[Server] Yunohost Instance"
     url: https://heartsdo.omg.lol
-  - name: [Server] Dev Platform
+  - name: "[Server] Dev Platform"
     url: https://dev.heartsdo.omg.lol
-  - name: [Server] ZNC
+  - name: "[Server] ZNC"
     url: https://chat.heartsdo.omg.lol
 
 status-website:
