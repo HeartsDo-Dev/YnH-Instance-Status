@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 491,
-    "timeWeek": 366,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 310,
+    "timeWeek": 361,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/heartsdo.omg.lol",
     "slug": "server-yunohost-instance",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.15%",
+    "uptimeDay": "78.53%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 901,
-    "timeDay": 1574,
-    "timeWeek": 997,
+    "timeDay": 0,
+    "timeWeek": 871,
     "timeMonth": 901,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2021-05-07": 1
+      "2021-05-08": 32,
+      "2021-05-07": 277
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/dev.heartsdo.omg.lol",
     "slug": "server-dev-platform",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.15%",
+    "uptimeDay": "78.56%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 681,
-    "timeDay": 887,
-    "timeWeek": 699,
+    "timeDay": 0,
+    "timeWeek": 696,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2021-05-07": 1
+      "2021-05-08": 32,
+      "2021-05-07": 277
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/chat.heartsdo.omg.lol",
     "slug": "server-znc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.16%",
+    "uptimeDay": "78.60%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 529,
-    "timeDay": 583,
-    "timeWeek": 512,
+    "timeDay": 0,
+    "timeWeek": 500,
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-05-07": 0
+      "2021-05-08": 32,
+      "2021-05-07": 276
     }
   }
 ]
