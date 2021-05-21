@@ -8,7 +8,7 @@ sites:
   - name: "[Server] Yunohost Instance"
     url: https://heartsdo.omg.lol
   - name: "[Server] Dev Platform"
-    url: https://dev.heartsdo.omg.lol
+    url: https://dev-private.heartsdo.omg.lol
   - name: "[Server] ZNC"
     url: https://chat.heartsdo.omg.lol
 
