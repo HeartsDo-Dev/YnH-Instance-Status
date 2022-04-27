@@ -5,10 +5,8 @@ repo: YnH-Instance-Status # The name of this repository
 sites:
   - name: "[Registrar] omg.lol"
     url: https://meta.omg.lol
-  - name: "[Server] Yunohost Instance"
+  - name: "[Server] Main Server"
     url: https://heartsdo.omg.lol
-  - name: "[Server] Dev Platform"
-    url: https://dev-private.heartsdo.omg.lol
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
