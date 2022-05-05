@@ -33,7 +33,7 @@
     "url": "https://heartsdo.omg.lol",
     "icon": "https://favicons.githubusercontent.com/heartsdo.omg.lol",
     "slug": "server-main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,8 @@
     "timeWeek": 751,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   }
 ]
