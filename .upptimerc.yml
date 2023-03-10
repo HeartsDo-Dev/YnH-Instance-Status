@@ -4,7 +4,7 @@ repo: YnH-Instance-Status # The name of this repository
 
 sites:
   - name: "[Registrar] omg.lol"
-    url: https://meta.omg.lol
+    url: https://home.omg.lol
   - name: "[Server] Main Server"
     url: https://heartsdo.omg.lol
 
