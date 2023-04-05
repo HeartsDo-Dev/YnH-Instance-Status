@@ -6,7 +6,7 @@ sites:
   - name: "[Registrar] omg.lol"
     url: https://home.omg.lol
   - name: "[Server] Main Server"
-    url: https://heartsdo.omg.lol
+    url: https://heartsdo.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
