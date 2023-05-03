@@ -4,7 +4,7 @@
     "url": "https://home.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/home.omg.lol.ico",
     "slug": "registrar-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "97.28%",
     "uptimeDay": "96.78%",
     "uptimeWeek": "97.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 389,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-05-02": 47,
       "2023-05-01": 58,
       "2023-04-30": 30,
