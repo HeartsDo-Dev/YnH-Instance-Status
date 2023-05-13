@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.omg.lol.ico",
     "slug": "registrar-omg-lol",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "94.52%",
-    "time": 470,
-    "timeDay": 339,
-    "timeWeek": 372,
-    "timeMonth": 383,
+    "time": 469,
+    "timeDay": 321,
+    "timeWeek": 353,
+    "timeMonth": 381,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2023-05-03": 8,
@@ -90,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.eu.org.ico",
     "slug": "server-main-server",
     "status": "up",
-    "uptime": "83.07%",
+    "uptime": "83.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "82.92%",
-    "time": 974,
-    "timeDay": 1480,
-    "timeWeek": 1434,
-    "timeMonth": 1282,
-    "timeYear": 970,
+    "time": 975,
+    "timeDay": 1356,
+    "timeWeek": 1480,
+    "timeMonth": 1297,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2023-05-08": 8,
       "2023-05-07": 22,
@@ -211,8 +211,7 @@
       "2022-05-20": 52,
       "2022-05-18": 1067,
       "2022-05-17": 1399,
-      "2022-05-14": 419,
-      "2022-05-13": 201
+      "2022-05-14": 419
     }
   }
 ]
