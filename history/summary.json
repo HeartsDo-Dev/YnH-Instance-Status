@@ -11,8 +11,8 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "94.52%",
     "time": 470,
-    "timeDay": 450,
-    "timeWeek": 426,
+    "timeDay": 389,
+    "timeWeek": 432,
     "timeMonth": 390,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -91,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.eu.org.ico",
     "slug": "server-main-server",
     "status": "up",
-    "uptime": "83.25%",
+    "uptime": "83.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "83.03%",
-    "time": 980,
-    "timeDay": 1520,
-    "timeWeek": 1484,
-    "timeMonth": 1346,
-    "timeYear": 981,
+    "uptimeYear": "83.04%",
+    "time": 981,
+    "timeDay": 1468,
+    "timeWeek": 1530,
+    "timeMonth": 1364,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2023-05-08": 8,
       "2023-05-07": 22,
@@ -210,8 +210,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1217,
       "2022-05-20": 52,
-      "2022-05-18": 1067,
-      "2022-05-17": 1399
+      "2022-05-18": 1067
     }
   }
 ]
