@@ -68,10 +68,10 @@
     "url": "https://heartsdo.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 3114,
@@ -80,6 +80,7 @@
     "timeMonth": 3114,
     "timeYear": 3114,
     "dailyMinutesDown": {
+      "2024-08-03": 0,
       "2024-07-31": 7,
       "2024-07-28": 7
     }
