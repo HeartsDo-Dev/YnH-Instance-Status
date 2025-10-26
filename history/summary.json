@@ -6,15 +6,15 @@
     "slug": "registrar-omg-lol",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.85%",
     "time": 535,
-    "timeDay": 594,
+    "timeDay": 500,
     "timeWeek": 425,
     "timeMonth": 566,
-    "timeYear": 542,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2025-10-24": 10,
       "2025-10-10": 17,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
     "status": "up",
-    "uptime": "91.16%",
+    "uptime": "91.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.71%",
-    "uptimeYear": "90.53%",
-    "time": 2391,
-    "timeDay": 763,
-    "timeWeek": 993,
-    "timeMonth": 3320,
-    "timeYear": 2451,
+    "uptimeYear": "90.80%",
+    "time": 2388,
+    "timeDay": 908,
+    "timeWeek": 1037,
+    "timeMonth": 3311,
+    "timeYear": 2447,
     "dailyMinutesDown": {
       "2025-10-04": 1038,
       "2025-10-03": 1440,
@@ -118,8 +118,7 @@
       "2024-12-23": 1108,
       "2024-11-26": 931,
       "2024-11-25": 906,
-      "2024-11-09": 12,
-      "2024-10-26": 1015
+      "2024-11-09": 12
     }
   }
 ]
