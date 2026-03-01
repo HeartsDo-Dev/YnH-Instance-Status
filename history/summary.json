@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 592,
-    "timeDay": 456,
-    "timeWeek": 680,
-    "timeMonth": 770,
-    "timeYear": 622,
+    "time": 594,
+    "timeDay": 939,
+    "timeWeek": 774,
+    "timeMonth": 755,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2026-01-25": 36,
       "2026-01-18": 18,
@@ -42,16 +42,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
     "status": "up",
-    "uptime": "91.08%",
+    "uptime": "91.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "91.04%",
-    "time": 2490,
-    "timeDay": 1044,
-    "timeWeek": 3175,
-    "timeMonth": 1667,
-    "timeYear": 2578,
+    "time": 2491,
+    "timeDay": 1553,
+    "timeWeek": 1165,
+    "timeMonth": 1714,
+    "timeYear": 2580,
     "dailyMinutesDown": {
       "2026-02-21": 31,
       "2026-01-21": 65,
@@ -112,8 +112,7 @@
       "2025-03-25": 814,
       "2025-03-24": 1440,
       "2025-03-23": 863,
-      "2025-03-11": 27,
-      "2025-03-01": 65
+      "2025-03-11": 27
     }
   }
 ]
