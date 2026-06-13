@@ -4,17 +4,17 @@
     "url": "https://home.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/home.omg.lol.ico",
     "slug": "registrar-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 640,
-    "timeDay": 821,
-    "timeWeek": 797,
-    "timeMonth": 921,
-    "timeYear": 690,
+    "time": 644,
+    "timeDay": 3015,
+    "timeWeek": 1349,
+    "timeMonth": 1055,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2025-08-14": 22,
       "2025-10-10": 17,
@@ -31,7 +31,8 @@
       "2026-01-25": 36,
       "2026-03-11": 90,
       "2026-04-13": 94,
-      "2026-04-26": 47
+      "2026-04-26": 47,
+      "2026-06-13": 1
     }
   },
   {
@@ -39,17 +40,17 @@
     "url": "https://heartsdo.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
-    "status": "up",
+    "status": "down",
     "uptime": "92.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.12%",
-    "time": 2317,
-    "timeDay": 1414,
-    "timeWeek": 1351,
-    "timeMonth": 1353,
-    "timeYear": 1996,
+    "time": 2324,
+    "timeDay": 3199,
+    "timeWeek": 1805,
+    "timeMonth": 1466,
+    "timeYear": 2004,
     "dailyMinutesDown": {
       "2025-07-02": 20,
       "2025-07-16": 14,
@@ -89,7 +90,8 @@
       "2026-02-21": 31,
       "2026-03-11": 124,
       "2026-04-28": 98,
-      "2026-04-30": 133
+      "2026-04-30": 133,
+      "2026-06-13": 0
     }
   }
 ]
