@@ -42,10 +42,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
     "status": "down",
-    "uptime": "92.95%",
-    "uptimeDay": "67.27%",
-    "uptimeWeek": "75.03%",
-    "uptimeMonth": "94.25%",
+    "uptime": "92.94%",
+    "uptimeDay": "60.39%",
+    "uptimeWeek": "74.05%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "95.07%",
     "time": 2522,
     "timeDay": 11675,
@@ -92,7 +92,7 @@
       "2026-09-01": 942,
       "2026-09-02": 454,
       "2026-09-03": 421,
-      "2026-09-04": 50
+      "2026-09-04": 149
     }
   }
 ]
