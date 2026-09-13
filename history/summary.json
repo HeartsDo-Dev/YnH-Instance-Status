@@ -41,17 +41,17 @@
     "url": "https://heartsdo.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
-    "status": "down",
-    "uptime": "92.66%",
-    "uptimeDay": "51.49%",
-    "uptimeWeek": "65.97%",
-    "uptimeMonth": "84.43%",
-    "uptimeYear": "94.56%",
-    "time": 2773,
-    "timeDay": 11981,
-    "timeWeek": 10557,
-    "timeMonth": 7935,
-    "timeYear": 3043,
+    "status": "up",
+    "uptime": "92.61%",
+    "uptimeDay": "27.80%",
+    "uptimeWeek": "60.54%",
+    "uptimeMonth": "83.18%",
+    "uptimeYear": "94.46%",
+    "time": 2772,
+    "timeDay": 8205,
+    "timeWeek": 10180,
+    "timeMonth": 7834,
+    "timeYear": 3037,
     "dailyMinutesDown": {
       "2025-09-14": 400,
       "2025-10-04": 1038,
@@ -97,7 +97,7 @@
       "2026-09-10": 642,
       "2026-09-11": 957,
       "2026-09-12": 752,
-      "2026-09-13": 40
+      "2026-09-13": 587
     }
   }
 ]
