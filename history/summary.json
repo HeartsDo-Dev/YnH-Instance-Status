@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 680,
-    "timeDay": 611,
+    "timeDay": 581,
     "timeWeek": 761,
     "timeMonth": 638,
     "timeYear": 725,
@@ -42,13 +42,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/heartsdo.omg.lol.ico",
     "slug": "server-mainframe",
     "status": "down",
-    "uptime": "92.11%",
-    "uptimeDay": "20.27%",
-    "uptimeWeek": "47.65%",
-    "uptimeMonth": "67.21%",
-    "uptimeYear": "93.31%",
+    "uptime": "92.10%",
+    "uptimeDay": "13.05%",
+    "uptimeWeek": "46.61%",
+    "uptimeMonth": "66.97%",
+    "uptimeYear": "93.29%",
     "time": 3371,
-    "timeDay": 10275,
+    "timeDay": 13290,
     "timeWeek": 11273,
     "timeMonth": 9819,
     "timeYear": 3792,
@@ -107,7 +107,7 @@
       "2026-09-21": 597,
       "2026-09-22": 783,
       "2026-09-23": 1163,
-      "2026-09-24": 0
+      "2026-09-24": 104
     }
   }
 ]
