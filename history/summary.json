@@ -6,10 +6,10 @@
     "slug": "registrar-omg-lol",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.65%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "98.77%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "79.89%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "98.76%",
     "time": 682,
     "timeDay": 725,
     "timeWeek": 753,
@@ -40,7 +40,8 @@
       "2026-10-03": 322,
       "2026-10-04": 712,
       "2026-10-06": 111,
-      "2026-10-05": 567
+      "2026-10-05": 567,
+      "2026-10-07": 77
     }
   },
   {
