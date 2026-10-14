@@ -4,17 +4,17 @@
     "url": "https://home.omg.lol",
     "icon": "https://icons.duckduckgo.com/ip3/home.omg.lol.ico",
     "slug": "registrar-omg-lol",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "49.26%",
-    "uptimeWeek": "64.67%",
-    "uptimeMonth": "79.72%",
-    "uptimeYear": "97.94%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "39.64%",
+    "uptimeWeek": "62.94%",
+    "uptimeMonth": "79.33%",
+    "uptimeYear": "97.91%",
     "time": 690,
-    "timeDay": 877,
-    "timeWeek": 712,
-    "timeMonth": 721,
-    "timeYear": 729,
+    "timeDay": 848,
+    "timeWeek": 718,
+    "timeMonth": 723,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-10-24": 10,
       "2025-11-13": 52,
@@ -47,7 +47,7 @@
       "2026-10-11": 407,
       "2026-10-12": 810,
       "2026-10-13": 497,
-      "2026-10-14": 654
+      "2026-10-14": 828
     }
   },
   {
